@@ -1,0 +1,6 @@
+======
+Manual
+======
+
+1.Digite o valor 
+2.Faça a operação ex. -100 ou +100
